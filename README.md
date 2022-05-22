@@ -4,4 +4,4 @@ A Named Entity Recogition model created with CNN and Bidirectional LSTM layers. 
 NER model is trained on the CoNLL dataset.
 
 ### NOTE:
-Ensure glove.6B.50d.txt embeddings are downloaded and kept inside the embeddings directory. (https://nlp.stanford.edu/projects/glove/)
+Ensure glove.6B.50d.txt embeddings are downloaded and kept inside an 'embeddings' directory. (https://nlp.stanford.edu/projects/glove/)
